@@ -1,0 +1,1 @@
+g++ main.cpp jsoncpp.cpp -lopencv_core -lopencv_imgproc -lopencv_objdetect -lopencv_highgui -std=c++14 -lpthread

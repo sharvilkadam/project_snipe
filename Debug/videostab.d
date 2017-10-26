@@ -1,0 +1,1 @@
+videostab.o: ../videostab.cpp
